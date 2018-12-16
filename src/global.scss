@@ -129,6 +129,12 @@ p {
     bottom: 30px;
 }
 
+.arrow-up {
+    display: block;
+    float: right;
+    width: 43px;
+    height: 43px;
+}
 .slideUp {
     animation: slideUpAnim 3s forwards;
     opacity: 0;

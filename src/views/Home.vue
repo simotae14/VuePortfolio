@@ -16,14 +16,8 @@
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
 export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
+  name: 'home'
 }
 </script>
 
@@ -32,4 +26,3 @@ export default {
     background: url('../assets/home.jpg')
   }
 </style>
-
