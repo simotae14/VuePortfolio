@@ -39,5 +39,6 @@ export default new Router({
       name: 'three',
       component: Three
     }
-  ]
+  ],
+  mode: 'history'
 })

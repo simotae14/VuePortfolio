@@ -1,5 +1,8 @@
 # vue-portfolio
 
+Project in Prod
+http://startae14-vue-portfolio.surge.sh
+
 ## Project setup
 ```
 yarn install
